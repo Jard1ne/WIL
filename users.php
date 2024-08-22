@@ -87,6 +87,10 @@ if ($result === false) {
     </div>
 
     <!-- Modals for adding and editing users -->
+    <!-- 
+                        Test for git in VSCode! :D
+                        Cam was here
+    -->
     <div id="addUserModal" class="modal">
         <div class="modal-content">
             <span class="close" onclick="closeAddUserModal()">&times;</span>
