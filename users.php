@@ -89,7 +89,7 @@ if ($result === false) {
     <!-- Modals for adding and editing users -->
     <!-- 
                         Test for git in VSCode! :D
-                        Cam was here
+                        Cam helped me
     -->
     <div id="addUserModal" class="modal">
         <div class="modal-content">
